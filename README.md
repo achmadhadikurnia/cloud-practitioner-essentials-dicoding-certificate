@@ -1,4 +1,4 @@
-# Dicoding: Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)
+# Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)
 Pelajari cara membangun arsitektur cloud di AWS, dari yang sederhana dengan Amazon S3, hingga yang canggih dengan serverless.
 
 ## Class
